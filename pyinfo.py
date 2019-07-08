@@ -41,7 +41,7 @@ def pyinfo():
     output +=     '<h2>Multimedia support</h2>'
     output +=     section_multimedia()
 
-    output +=     '<h2>Copyright</h2>'
+    output +=     '<h2>Copyright (ah... okay)</h2>'
     output +=     section_copyright()
 
     output +=   '</div>'
