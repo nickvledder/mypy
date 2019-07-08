@@ -1,2 +1,3 @@
-if 5 > 2:
-  print("Five is greater than two!")
+print "Content-Type: text/plain"
+print ""
+print "Congratulations, it's a web app!"
