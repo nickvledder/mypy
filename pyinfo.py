@@ -4,7 +4,7 @@ def pyinfo():
     output  = '<!DOCTYPE html>\n'
     output += '<html>'
     output +=  '<head>'
-    output +=   '<title>pyinfo()</title>'
+    output +=   '<title>pyinfo() Hello World</title>'
     output +=   '<meta name="robots" content="noindex,nofollow,noarchive,nosnippet">'
     output +=    styles()
     output +=  '</head>'
